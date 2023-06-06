@@ -1,6 +1,8 @@
 # calculator.py
 # calculator function
 
+class Calculator:
+  
 # add function
 def add(x,y):
   return x + y
